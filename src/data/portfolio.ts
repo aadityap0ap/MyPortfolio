@@ -1,29 +1,28 @@
 export const personalInfo = {
   name: "Aditya Priyadarshi",
   firstName: "Aditya",
-  title: "Full Stack Developer",
-  tagline: "I craft elegant digital experiences that blend beautiful design with robust engineering.",
-  email: "aditya.priyadarshi@email.com",
+  title: "Software Engineer",
+  tagline: "Portfolio of Aditya Priyadarshi — Software Engineer passionate about building scalable applications, solving complex problems, and continuously exploring new technologies.",
+  email: "priyadarshiaditya450@gmail.com",
   location: "India",
   availability: "Open to opportunities",
   social: {
-    github: "https://github.com/adityapriyadarshi",
-    linkedin: "https://linkedin.com/in/adityapriyadarshi",
-    twitter: "https://twitter.com/adityapriyadarshi",
+    github: "https://github.com/aadityap0ap",
+    linkedin: "https://www.linkedin.com/in/aditya-priyadarshi-962737279/",
+    leetcode: "https://leetcode.com/u/aaditya0805ap/",
   },
   resumeUrl: "#",
 };
 
 export const about = {
   bio: [
-    "I'm a passionate developer who loves turning complex problems into simple, beautiful, and intuitive solutions. With a keen eye for design and a deep understanding of modern web technologies, I build products that users love.",
-    "When I'm not coding, you'll find me exploring new technologies, contributing to open source, or sharing knowledge with the developer community.",
+    "I'm a Software Engineer who enjoys building reliable, scalable, and user-focused software. I love transforming complex ideas into clean, efficient solutions while combining strong computer science fundamentals with modern development practices. Whether it's designing intuitive user experiences, developing robust backend systems, or solving challenging algorithmic problems, I strive to build software that creates real impact . Beyond writing code, I'm constantly learning and exploring new technologies, sharpening my engineering skills, contributing to meaningful projects, and sharing knowledge with the developer community. I believe that great engineering is driven by curiosity, continuous improvement, and a commitment to building better software every day.",
   ],
   highlights: [
-    { label: "Years Experience", value: "3+" },
-    { label: "Projects Completed", value: "25+" },
-    { label: "Technologies", value: "15+" },
-    { label: "Happy Clients", value: "10+" },
+    { label: "Years Experience", value: "Fresher" },
+    { label: "Projects Completed", value: "6+" },
+    { label: "Technologies", value: "9+" },
+    { label: "Happy Clients", value: "4+" },
   ],
 };
 
