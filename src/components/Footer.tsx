@@ -38,10 +38,10 @@ export function Footer() {
             <Linkedin size={20} />
           </a>
           <a
-            href={personalInfo.social.twitter}
+            href={personalInfo.social.leetcode}
             target="_blank"
             rel="noopener noreferrer"
-            aria-label="Twitter"
+            aria-label="Leetcode"
             className="text-muted transition-colors hover:text-foreground"
           >
             <Twitter size={20} />
