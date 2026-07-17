@@ -7,7 +7,7 @@ import { personalInfo } from "@/data/portfolio";
 const socialIcons = [
   { icon: Github, href: personalInfo.social.github, label: "GitHub" },
   { icon: Linkedin, href: personalInfo.social.linkedin, label: "LinkedIn" },
-  { icon: Twitter, href: personalInfo.social.twitter, label: "Twitter" },
+  { icon: Twitter, href: personalInfo.social.leetcode, label: "Leetcode" },
   { icon: Mail, href: `mailto:${personalInfo.email}`, label: "Email" },
 ];
 
